@@ -1,3 +1,3 @@
 # Non-line-of-sight
 
-- · PassiveNLOS
+- PassiveNLOS
